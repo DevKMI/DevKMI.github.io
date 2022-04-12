@@ -4,11 +4,47 @@
       text-underline-offset: .8rem;
     }
     @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
-      padding-bottom: .45rem;
+      padding-bottom: 0.45rem;
     }
   }
 
   .btn, .gumroad-button  {
-    margin: 1rem 0;
+    margin: 0.5rem 0;
   }
+}
+
+// for top-menu
+.top-menu-wrapper{
+  display: inline-block;
+}
+
+.nav-btn, .nav-btn-bar{
+  height: 2rem;
+}
+.top-menu{
+  overflow-x: auto;
+  // overflow-y: hidden;
+  white-space: nowrap;
+}
+.top-menu.nav-btn{
+  border: none;
+  display: inline-flex;
+  width: 7rem;
+  margin-left: -1px;
+}
+
+.content .avatar {
+  float: right !important;
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color 1s ease;
+  margin-top: 5px !important;
+  margin-left:  5px !important;
+  width: 140px !important;
+  height: 140px !important;
+}
+
+.author-body-description{
+  margin-left: 20px !important;
+  margin-top:  20px !important;
 }

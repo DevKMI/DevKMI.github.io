@@ -41,7 +41,7 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                GyoungMin Bae
+  name:                DevMI
   email:               bkm0903v@naver.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -85,8 +85,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -426,3 +426,12 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: []
+    categories: []
+    tags: []
