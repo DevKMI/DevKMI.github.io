@@ -49,15 +49,15 @@ author:
 # Add links to the sidebar.
 menu:
   - title:            C++
-    url:              /cpp1/
+    url:              /cpp/
   - title:            C#
-    url:              /cs1/
+    url:              /cs/
   - title:            DX
-    url:              /dx1/
+    url:              /dx/
   - title:            DataStructure
-    url:              /ds1/
+    url:              /ds/
   - title:            Programmers
-    url:              /pr1/
+    url:              /pr/
   - title:            About
     url:              /about/
 
