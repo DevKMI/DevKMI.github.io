@@ -52,12 +52,14 @@ menu:
     url:              /cpp/
   - title:            C#
     url:              /cs/
-  - title:            DX
+  - title:            Dx
     url:              /dx/
   - title:            DataStructure
     url:              /ds/
   - title:            Programmers
     url:              /pr/
+  - title:            Etc
+    url:              /etc/
   - title:            About
     url:              /about/
 
