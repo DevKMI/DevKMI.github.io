@@ -50,14 +50,14 @@ author:
 menu:
   - title:            C++
     url:              /cpp/
-  - title:            C#
-    url:              /cs/
+  - title:            UnReal
+    url:              /un/
   - title:            Dx
     url:              /dx/
   - title:            DataStructure
     url:              /ds/
-  - title:            Programmers
-    url:              /pr/
+  - title:            Algorithm
+    url:              /al/
   - title:            Etc
     url:              /etc/
   - title:            About

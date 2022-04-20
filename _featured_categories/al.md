@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: C#
+title: Algorithm
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: C#
+slug: Algorithm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  C# Study
+  Algorithm Study
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
